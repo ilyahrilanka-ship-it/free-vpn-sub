@@ -1,1 +1,1 @@
-vless://e440fa81-fe9d-4ca1-b711-f7b72c3d79ed@34.128.84.173:443?security=reality&pbk=-9nhbWBjFTNIE5q0kg76hjyzCS2giPfZ-fbd8xvmRX0&sid=409192cee72716d7&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=chrome#🇮🇩 Indonesia Jakarta
+vless://0f4081e7-612b-425f-8def-eebf144aedba@185.91.54.30:8444?mode=gun&security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&type=grpc&serviceName=grpc-reality&sni=ads.x5.ru&sid=9e15546f267baa64&fp=firefox#🇷🇺 Russia St Petersburg
